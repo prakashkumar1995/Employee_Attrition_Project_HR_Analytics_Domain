@@ -6,11 +6,17 @@ Developed an HR Analytics solution using SQL, Excel, Power BI, and Tableau to an
 Key Insights & KPIs-
 
 Analyzed the Average Attrition Rate across all departments.
+
 Calculated the Average Hourly Rate of Male Research Scientists.
+
 Evaluated the relationship between Attrition Rate and Monthly Income.
+
 Analyzed Average Working Years for employees across departments.
+
 Assessed the impact of Job Role on Work-Life Balance.
+
 Examined the relationship between Attrition Rate and Years Since Last Promotion.
+
 Built interactive dashboards to monitor employee retention, compensation trends, and workforce performance.
 
 Tools & Technologies-
